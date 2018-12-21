@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PluginLibrary</string>
+    <string name="hello">Hello FragmentLoader!</string>
+</resources>
